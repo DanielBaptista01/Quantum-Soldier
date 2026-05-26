@@ -1,7 +1,7 @@
-# [NOME DO JOGO] - Tactical Math Infiltration
+# Quantum Soldier - Tactical Math Infiltration
 
 ## Visão Geral
-**[NOME DO JOGO]** é um jogo 2D top-down desenvolvido em linguagem C pura, utilizando a biblioteca gráfica **Allegro**. O projeto mescla mecânicas de infiltração tática com resolução de problemas matemáticos sob pressão. Com um apelo visual em *pixel art* inspirado na era 16-bits (estética Nintendo), o jogo atua como um *Serious Game* (jogo educacional), onde o raciocínio lógico e matemático é a mecânica central de sobrevivência.
+**Quantum Soldier** é um jogo 2D top-down desenvolvido em linguagem C pura, utilizando a biblioteca gráfica **Allegro**. O projeto mescla mecânicas de infiltração tática com resolução de problemas matemáticos sob pressão. Com um apelo visual em *pixel art* inspirado na era 16-bits (estética Nintendo), o jogo atua como um *Serious Game* (jogo educacional), onde o raciocínio lógico e matemático é a mecânica central de sobrevivência.
 
 ## Game Design & Narrativa
 
