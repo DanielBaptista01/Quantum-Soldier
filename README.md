@@ -20,6 +20,9 @@ O jogador controla um soldado das forças especiais aposentado (agora professor 
   * **Recarga de Armamento:** A própria mecânica de *reload* pode estar atrelada a inputs lógicos, forçando o jogador a pensar enquanto evita o fogo inimigo.
 * **Condição de Falha:** Errar o cálculo matemático ou esgotar o tempo limite resulta na ativação da segurança inimiga e eliminação do jogador (Game Over).
 
+<p align="center">
+  <img src="./ConsoleApplication1/fonte/gameplay(Quantum_Soldier).jpeg" alt="Gameplay de Quantum Soldier" width="80%">
+</p>
 ---
 
 ## Arquitetura Técnica e Engenharia (Linguagem C)
